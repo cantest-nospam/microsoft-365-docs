@@ -25,6 +25,9 @@ ms.assetid: 0d6dfb17-8582-4172-a9a9-aed798150263
 description: "Get a periodic report of how people in your organization are using Microsoft 365 services and drill into each chart for more insights."
 ---
 
+
+at 30:00 it is said bla
+it should be bla bla
 # Microsoft 365 Reports in the admin center
 
 Check out [Microsoft 365 small business help](https://go.microsoft.com/fwlink/?linkid=2197659) on YouTube.
